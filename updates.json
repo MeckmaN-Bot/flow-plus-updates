@@ -2,7 +2,7 @@
   "addons": {
     "flow-plus@7i7.de": {
       "updates": [
-        { "version": "0.4.2", "update_link": "https://raw.githubusercontent.com/MeckmaN-Bot/flow-plus-updates/main/flow_plus-0.4.2.xpi" }
+        { "version": "0.4.3", "update_link": "https://raw.githubusercontent.com/MeckmaN-Bot/flow-plus-updates/main/flow_plus-0.4.3.xpi" }
       ]
     }
   }
